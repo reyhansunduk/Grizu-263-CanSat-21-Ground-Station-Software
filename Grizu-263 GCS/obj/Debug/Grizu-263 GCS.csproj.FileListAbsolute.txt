@@ -1,0 +1,1174 @@
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\source\repos\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 GCS\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Araştırma\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE (07.01.2021.9\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 13.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 22.01.2021 PDR İÇİN GÜNCEL\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\Grizu-263 INTERFACE 27.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Grizu-263 INTERFACE 27.01.2021 gece\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\31.01.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\16.03.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\18.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Suleyman Aris\Desktop\grizu-263\2020 - 2021 CanSat\Kodlar\Arayüz\19.3.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\S-06.05.21\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 7.5.21 (19.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 13.5.21 (18.34)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\Suleyman Aris\Desktop\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\OneDrive\Masaüstü\GÜNCEL 14.5.21 (03.12)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 19.5.21 (20.00)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\GÜNCEL 20.5.21 (16.59)\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Kodlar\Arayüz\son_düzenlemeler 22.05.2021 00.50\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\reyhan\Test Kodu 2\son_düzenlemeler 22.05.2021 21.28\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Kodlar\Arayüz\mqtt ile güncelleme 23.05.2021 00.03\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\Drop Test kodu 23.05.2021 06.51\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\Kned,kmdendeiği\HATA OLMAYAN KOD VE ÇALIŞAN 24.05.2021 02.52\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Feyzullah\2 saatlik test kodu 24.05.2021 05.35\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\n-yil\OneDrive\Masaüstü\Drop Test 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\DROP 2. TESTİN KODU\YENİ KOD\Drop Test 2 v1.1\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\Vibration Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\THERMAL TEST v1.0\Termal Test\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\Vacuum Test Kodu 2\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\GÜNCEL KOD\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\VACUUM TEST\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.AssemblyReference.cache
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\28.05.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\06.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\07.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\REYHAN\OneDrive\Masaüstü\08.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\suley\Desktop\10.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.AssemblyReference.cache
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\12.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe.config
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\Grizu-263 GCS.pdb
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.Core.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.xml
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.AssemblyReference.cache
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Form1.resources
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu_263_GCS.Properties.Resources.resources
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.GenerateResource.cache
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CoreCompileInputs.cache
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.csproj.CopyComplete
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.exe
+C:\Users\nylmz\Desktop\13.06.2021\Grizu-263 GCS\obj\Debug\Grizu-263 GCS.pdb
